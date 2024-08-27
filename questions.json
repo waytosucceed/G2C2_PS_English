@@ -1,0 +1,213 @@
+{
+  "heading": "Bag of words",
+  "topics": [
+    {
+      "heading": "Bag of words",
+      "questions": [{
+        "questionNo": 1,
+        "question": "What do you call a person who grows food on a farm?",
+        "options": [
+            "Teacher",
+            "Farmer",
+            "Chef",
+            "Doctor"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 2,
+        "question": "Fill in the blank: A _____ is a baby dog.",
+        "options": [
+            "Kitten",
+            "Puppy"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 3,
+        "question": "Which of these makes a 'moo' sound?",
+        "options": [
+            "Pig",
+            "Sheep",
+            "Cow",
+            "Fox"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 4,
+        "question": "What do you call someone who cooks food in a restaurant?",
+        "options": [
+            "Farmer",
+            "Teacher",
+            "Chef",
+            "Doctor"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 5,
+        "question": "Fill in the blank: A _____ is a floating ball of soap and air.",
+        "options": [
+            "Bubble",
+            "Ball"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 6,
+        "question": "Which word means to shine with little flashes of light?",
+        "options": [
+            "Wiggle",
+            "Bounce",
+            "Sparkle",
+            "Crunch"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 7,
+        "question": "What do you call it when you move side to side in a twisty way?",
+        "options": [
+            "Bounce",
+            "Wiggle",
+            "Sparkle",
+            "Crunch"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 8,
+        "question": "Fill in the blank: When you drop a ball, it will _____.",
+        "options": [
+            "Float",
+            "Bounce"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 9,
+        "question": "What do you wear around your neck to keep warm?",
+        "options": [
+            "Shoe",
+            "Hat",
+            "Scarf",
+            "Glove"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 10,
+        "question": "What's a sweet treat that's often colourful?",
+        "options": [
+            "Carrot",
+            "Candy",
+            "Potato",
+            "Bread"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 11,
+        "question": "Fill in the blank: A _____ helps sick people feel better.",
+        "options": [
+            "Chef",
+            "Police",
+            "Doctor"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 12,
+        "question": "What do you call a big machine farmers use in fields?",
+        "options": [
+            "Car",
+            "Bicycle",
+            "Tractor",
+            "Boat"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 13,
+        "question": "Which animal has a bushy tail and is known for being clever?",
+        "options": [
+            "Cow",
+            "Pig",
+            "Sheep",
+            "Fox"
+        ],
+        "answer": 3
+    },
+    {
+        "questionNo": 14,
+        "question": "Fill in the blank: An _____ has a long trunk and big ears.",
+        "options": [
+            "Cow",
+            "Elephant"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 15,
+        "question": "I go to school and help students learn new things.",
+        "options": [
+            "Teacher",
+            "Dentist"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 16,
+        "question": "What do you call a small, happy laugh?",
+        "options": [
+            "Cry",
+            "Yell",
+            "Giggle",
+            "Frown"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 17,
+        "question": "Fill in the blank: A _____ is a colourful arc in the sky after rain.",
+        "options": [
+            "Rainbow",
+            "Thunder"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 18,
+        "question": "Which word means very small?",
+        "options": [
+            "Huge",
+            "Tiny",
+            "Long",
+            "Wide"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 19,
+        "question": "What do you call the star we see during the day?",
+        "options": [
+            "Moon",
+            "Sun"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 20,
+        "question": "Fill in the blank: A _____ is a place where flowers grow.",
+        "options": [
+            "House",
+            "Garden"
+        ],
+        "answer": 1
+    }
+    ]
+    
+    }
+  ]
+}
